@@ -1,0 +1,5 @@
+# install chainlit
+chainlit
+
+# install llama-index
+llama-index
